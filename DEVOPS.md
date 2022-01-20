@@ -1,4 +1,4 @@
-# SONAI IS A DEVOPS GURU
+# path to devops
 
 ## BASICS
  - OPERATING SYSTEM
